@@ -1,13 +1,10 @@
-# Social Media Clone in Python
+# Social Media in Python
 
 
-
-
-
-This project is generated in Python with the Django Framework. The main goal of making this project is, is to learn working with Python and Django. This project was made by following an online course on Udemy.
+This project is generated in Python with the Django Framework. This project was made by following an online course on Udemy - Career Point.
 
 If you are interested in the course, you can find it here:
-- https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/
+- https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
 
 The course covered the following::
 - HTML
@@ -27,7 +24,7 @@ The course covered the following::
 
 # Usage
 1. Clone project
-2. Change terminal directory to the projects directory
+2. Change the terminal directory to the projects directory
 3. Install the missing pip packages (see https://packaging.python.org/tutorials/installing-packages/)
 2. Run: ```python manage.py migrate```
 3. Run: ```python manage.py runserver```
@@ -38,11 +35,11 @@ The course covered the following::
 The following packages are used in this project (pip): 
   ``` 
 - bcrypt==3.1.6
-- bootstrap4==0.1.0
+- bootstrap5
 - certifi==2019.6.16
 - cffi==1.12.3
 - Django==2.2.1
-- django-bootstrap4==0.0.8
+- django-bootstrap5
 - django-braces==1.13.0
 - Faker==2.0.0
 - humanize==0.5.1
@@ -56,12 +53,7 @@ The following packages are used in this project (pip):
 - sqlparse==0.3.0
 - text-unidecode==1.2
 - wincertstore==0.2
+- fontawesomefree
 ```
 
 #Pictures
-![Picture one](https://i.imgur.com/fq4reOb.png)
-![Picture two](https://i.imgur.com/jktl858.png)
-![Picture three](https://i.imgur.com/p72KfqY.png)
-
-## License
- [MIT](https://github.com/nishanths/license/blob/master/LICENSE)
