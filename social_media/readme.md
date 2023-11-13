@@ -57,3 +57,7 @@ The following packages are used in this project (pip):
 ```
 
 #Pictures
+
+[
+![Screenshot (368)](https://github.com/Raymond-Rana/social_media-django/assets/51952960/37dbf29c-f248-4cd6-95fe-3d5222281d86)
+](url)
