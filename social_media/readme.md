@@ -60,4 +60,11 @@ The following packages are used in this project (pip):
 
 [
 ![Screenshot (368)](https://github.com/Raymond-Rana/social_media-django/assets/51952960/37dbf29c-f248-4cd6-95fe-3d5222281d86)
-](url)
+](URL)
+![Screenshot (369)](https://github.com/Raymond-Rana/social_media-django/assets/51952960/bb766ffd-9027-43ef-846d-00a4995cfbd9)
+
+![Screenshot (371)](https://github.com/Raymond-Rana/social_media-django/assets/51952960/2d4eabf4-293a-4d94-9836-26ea88a88de5)
+
+![Screenshot (370)](https://github.com/Raymond-Rana/social_media-django/assets/51952960/90ee9d6d-3bc5-45ee-8498-82de50bdfff2)
+
+
